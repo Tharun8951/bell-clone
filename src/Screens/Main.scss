@@ -1,0 +1,28 @@
+.main-container {
+  .linearGradient {
+    height: 1vh;
+    background: linear-gradient(to right, #2a86ea, #0ebba6);
+  }
+  .top-black {
+    background-color: #202529;
+    height: 24vh;
+  }
+  .bottom-white {
+    background-color: #f2f4f0;
+    height: 75vh;
+  }
+  .signin-form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .left-container {
+    position: absolute;
+    top: 50%;
+    left: 15%; 
+    transform: translate(-50%, -50%); 
+  }
+}
+
+
